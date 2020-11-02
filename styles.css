@@ -9,7 +9,7 @@ header {
 }
 h2{
   position: absolute;
-  top: 120%;
+  top: 130%;
   left: 50%;
   transform: translate(-50%, -50%);
     font-family: 'Syne Mono', monospace;
